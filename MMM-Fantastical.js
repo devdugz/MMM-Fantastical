@@ -1,7 +1,7 @@
 // MMM-Fantastical/MMM-Fantastical.js
 Module.register("MMM-Fantastical", {
     defaults: {
-        icalUrl: "{YOUR_ICAL_URL}",
+        icalUrl: "{YOUR_ICAL_URL}", // MAKE SURE TO ADD YOUR OWN ICAL URL
         updateInterval: 300000, // 5 minutes
         maxEvents: 10,
         showLocation: true,
