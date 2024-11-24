@@ -1,0 +1,21 @@
+{
+  "name": "mmm-fantastical",
+  "version": "1.0.0",
+  "description": "Magic Mirror Module for displaying iCal calendar events",
+  "main": "MMM-Fantastical.js",
+  "dependencies": {
+    "node-ical": "^0.16.1"
+  },
+  "author": "Connor Duggan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devdugz/MMM-Fantastical.git"
+  },
+  "keywords": [
+    "magicmirror",
+    "calendar",
+    "ical",
+    "module"
+  ]
+}
