@@ -9,6 +9,13 @@ A MagicMirror² module for displaying iCal calendar events in a clean, customiza
 - Configurable look-ahead period
 - Clean, minimal design
 
+## Known Issues
+
+The module initially shows npm security vulnerabilities from dependencies. Running the following command during installation fixes these issues:
+
+```
+npm audit fix --force
+
 ## Installation
 
 1. Navigate to your MagicMirror modules directory:
