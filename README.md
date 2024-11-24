@@ -1,6 +1,6 @@
 # MMM-Fantastical
 
-A MagicMirror² module for displaying iCal calendar events in a clean, customizable format.
+A MagicMirror² module for displaying iCal calendar events in a clean, customizable format. (NOTE: I use Fantastical and iCloud Calendar, this method takes your iCloud share link ["https://support.apple.com/guide/icloud/share-a-calendar-mm6b1a9479/icloud"] due to Fantastical not having a share calendar link button currently.)
 
 ## Features
 - Displays upcoming events from iCal calendars
@@ -83,4 +83,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 If you find this module helpful, please consider starring the repository on GitHub.
-```
