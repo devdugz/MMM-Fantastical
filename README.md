@@ -36,7 +36,7 @@ Add this configuration to your `config/config.js` file:
     module: "MMM-Fantastical",
     position: "top_left",
     config: {
-        icalUrl: "YOUR_CALENDAR_URL",
+        icalUrl: "YOUR_CALENDAR_URL", // REPLACE "YOUR_CALENDAR_URL" WITH YOUR ICAL LINK
         updateInterval: 300000, // 5 minutes
         maxEvents: 10,
         showLocation: true,
