@@ -15,6 +15,7 @@ The module initially shows npm security vulnerabilities from dependencies. Runni
 
 ```
 npm audit fix --force
+```
 
 ## Installation
 
