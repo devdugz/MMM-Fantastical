@@ -10,13 +10,6 @@ A MagicMirror² module for displaying iCal calendar events in a clean, customiza
 - Shows event times, locations, and dates
 - Configurable look-ahead period
 - Clean, minimal design
-
-## Known Issues
-
-The module initially shows npm security vulnerabilities from dependencies. Running the following command during installation fixes these issues:
-
-```
-npm audit fix --force
 ```
 
 ## Installation
@@ -87,6 +80,13 @@ The module uses the following CSS classes that you can customize in your custom.
 3. Commit your changes (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature/improvement`)
 5. Create a Pull Request
+
+## Known Issues
+
+The module initially shows npm security vulnerabilities from dependencies. Running the following command during installation fixes these issues:
+
+```
+npm audit fix --force
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
